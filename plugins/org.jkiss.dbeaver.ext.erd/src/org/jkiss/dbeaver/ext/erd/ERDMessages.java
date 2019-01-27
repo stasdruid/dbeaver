@@ -64,6 +64,10 @@ public class ERDMessages extends NLS {
 	public static String erd_editor_control_action_configuration;
 	//ERD editor action item control
 
+	public static String erd_preference_page_label_attribute_styles;
+	public static String erd_preference_page_label_attributes_visibility;
+	public static String erd_preference_page_label_diagram_contents;
+	public static String erd_preference_page_label_show_views;
 	public static String erd_tool_create_connection;
 	public static String erd_tool_create_connection_tip;
 	public static String erd_tool_create_note;
@@ -74,6 +78,17 @@ public class ERDMessages extends NLS {
 	public static String menu_attribute_visibility;
 	public static String menu_attribute_visibility_default;
 	public static String menu_attribute_visibility_entity;
+	
+	public static String erd_attribute_visibility_all;
+	public static String erd_attribute_visibility_any_keys;
+	public static String erd_attribute_visibility_none;
+	public static String erd_attribute_visibility_primary_key;
+
+	public static String erd_view_style_comments;
+	public static String erd_view_style_data_types;
+	public static String erd_view_style_fully_qualified;
+	public static String erd_view_style_icons;
+	public static String erd_view_style_nullability;
 
 	private ERDMessages() {
 	}
